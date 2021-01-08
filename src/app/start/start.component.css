@@ -1,0 +1,12 @@
+.auth {
+position: relative;
+top: calc(50% - 100px);
+margin: 0 auto;
+height: 200px;
+width: 400px;
+background-color: #ADFF2F;
+}
+.container-mid {
+  position: relative;
+margin:0 auto;
+}

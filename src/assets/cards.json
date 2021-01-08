@@ -1,0 +1,228 @@
+{
+  cards: [
+  {
+    name: OE,
+    caption: Obereichel,
+    valence: 2,
+    value: 3,
+    trump: no
+ },
+  {
+    name: OG,
+    caption: Obergrün,
+    valence: 2,
+    value: 3,
+    trump: no
+ },
+  {
+    name: OR,
+    caption: Oberrot,
+    valence: 2,
+    value: 3,
+    trump: no
+ },
+  {
+    name: OS,
+    caption: Oberschell,
+    valence: 2,
+    value: 3,
+    trump: no
+ },
+  {
+    name: UE,
+    caption: Untereichel,
+    valence: 1,
+    value: 2,
+    trump: no
+ },
+  {
+    name: UG,
+    caption: Untergrün,
+    valence: 1,
+    value: 2,
+    trump: no
+ },
+  {
+    name: UR,
+    caption: Unterrot,
+    valence: 1,
+    value: 2,
+    trump: no
+ },
+  {
+    name: US,
+    caption: Unterschell,
+    valence: 1,
+    value: 2,
+    trump: no
+ },
+  {
+    name: KE,
+    caption: Königeichel,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KG,
+    caption: Königgrün,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KR,
+    caption: Königrot,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KS,
+    caption: Königschell,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KE,
+    caption: Königeichel,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KG,
+    caption: Königgrün,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KR,
+    caption: Königrot,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KS,
+    caption: Königschell,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KE,
+    caption: Königeichel,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KG,
+    caption: Königgrün,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KR,
+    caption: Königrot,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KS,
+    caption: Königschell,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KE,
+    caption: Königeichel,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KG,
+    caption: Königgrün,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KR,
+    caption: Königrot,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: KS,
+    caption: Königschell,
+    valence: 3,
+    value: 4,
+    trump: no
+ },
+  {
+    name: ZE,
+    caption: Zehneichel,
+    valence: 4,
+    value: 10,
+    trump: no
+ },
+  {
+    name: ZG,
+    caption: Zehngrün,
+    valence: 4,
+    value: 10,
+    trump: no
+ },
+  {
+    name: ZR,
+    caption: Zehnrot,
+    valence: 4,
+    value: 10,
+    trump: no
+ },
+  {
+    name: ZS,
+    caption: Zehnschell,
+    valence: 4,
+    value: 10,
+    trump: no
+ },
+  {
+    name: AE,
+    caption: Asseichel,
+    valence: 5,
+    value: 11,
+    trump: no
+ },
+  {
+    name: AG,
+    caption: Assgrün,
+    valence: 5,
+    value: 11,
+    trump: no
+ },
+  {
+    name: AR,
+    caption: Assrot,
+    valence: 5,
+    value: 11,
+    trump: no
+  },
+  {
+    name: AS,
+    caption: Assschell,
+    valence: 5,
+    value: 11,
+    trump: no
+ }
+  ]
+}

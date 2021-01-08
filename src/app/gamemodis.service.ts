@@ -1,0 +1,65 @@
+import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Observable, of} from 'rxjs';
+import { Gamemodi } from 'gamemodi';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class GamemodisService {
+
+  gamemodis: Gamemodi[] = [
+      {
+      name: "normal",
+      caption: "Normales Spiel",
+      valence: 1,
+      trump: "RZ,SS,OO,UU"
+    }
+    {
+      name: "fleischlos",
+      valence: 10,
+      caption: "Solo Fleischlos",
+      trump: ""
+    }
+    {
+      name: "unter",
+      valence: 6,
+      caption: "Untersolo",
+      trump: "UU"
+    }
+    {
+      name: "ober",
+      valence: 5,
+      caption: "Obersolo",
+      trump: "OO"
+    }
+    {
+      name: "eichel",
+      valence: 5,
+      caption: "Eichelsolo",
+      trump: "OO,UU,RZ,EE"
+    }
+    {
+      name: "gruen",
+      valence: 5,
+      caption: "Grünsolo",
+      trump: "OO,UU,RZ,GG"
+    }
+    {
+      name: "schell",
+      valence: 5,
+      caption: "Schellsolo",
+      trump: "OO,UU,RZ,SS"
+    }
+    {
+      name: "rot",
+      valence: 5,
+      caption: "Rotsolo",
+      trump: "OO,UU,RZ,RR"
+    }
+  ];
+
+  constructor(
+    private http: HttpClient
+  ) { }
+}

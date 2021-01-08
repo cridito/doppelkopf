@@ -1,0 +1,50 @@
+<game>
+  <modi>
+    <name>normal</name>
+    <caption>Normales Spiel</caption>
+    <valence>1</valence>
+    <trump>RZ,SS,OO,UU</trump>
+  </modi>
+  <modi>
+    <name>fleischlos</name>
+    <valence>10</valence>
+    <caption>Solo Fleischlos</caption>
+    <trump></trump>
+  </modi>
+  <modi>
+    <name>unter</name>
+    <valence>6</valence>
+    <caption>Untersolo</caption>
+    <trump>UU</trump>
+  </modi>
+  <modi>
+    <name>ober</name>
+    <valence>5</valence>
+    <caption>Obersolo</caption>
+    <trump>OO</trump>
+  </modi>
+  <modi>
+    <name>eichel</name>
+    <valence>5</valence>
+    <caption>Eichelsolo</caption>
+    <trump>OO,UU,RZ,EE</trump>
+  </modi>
+  <modi>
+    <name>gruen</name>
+    <valence>5</valence>
+    <caption>Grünsolo</caption>
+    <trump>OO,UU,RZ,GG</trump>
+  </modi>
+  <modi>
+    <name>schell</name>
+    <valence>5</valence>
+    <caption>Schellsolo</caption>
+    <trump>OO,UU,RZ,SS</trump>
+  </modi>
+  <modi>
+    <name>rot</name>
+    <valence>5</valence>
+    <caption>Rotsolo</caption>
+    <trump>OO,UU,RZ,RR</trump>
+  </modi>
+</game>
